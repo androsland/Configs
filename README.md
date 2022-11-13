@@ -1,2 +1,2 @@
-# Misc
-Miscellaneous repo. Everything and anything is in here 
+# Configs
+All the configs I use in one place for convinience
